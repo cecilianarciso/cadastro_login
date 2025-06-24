@@ -44,7 +44,7 @@ etec-login-poo/
 
 1. Clone o repositório: 
  bash
- git clone https://github.com/FelipeSantos1423/Proj_fabiano.git
+ git clone https://github.com/cecilianarciso/cadastro_login.git
  cd Controle-de-Estoque
  
 2. Instale as dependências: 
